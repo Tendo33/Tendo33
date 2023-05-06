@@ -9,7 +9,7 @@
 - 🚀 I'm beginner, passionate about learning new things.&nbsp;
 - 🔭 I’m currently an intern at Oneflow.&nbsp;
 - 🌱 I’m currently a student of ENSEA.&nbsp;
-- ⚡ Fun fact: very interested in artificial intelligence.&nbsp;
+- ⚡ deep in the heart：very interested in artificial intelligence.&nbsp;
   <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
   <br /> 
   <br />  
