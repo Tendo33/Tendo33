@@ -9,10 +9,13 @@
 - 🔭 I’m currently an intern at Oneflow.
 - 🌱 I’m currently a student of ENSEA.
 - ⚡ Fun fact: very interested in artificial intelligence.
-  <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
+  <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="330" height="220" />
+  <br /> 
+  <br />  
   <br />
   <br />
-  <br />
+
+
 ### 🛠 &nbsp;Languages, frameworks & technologies:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;
