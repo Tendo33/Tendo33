@@ -4,12 +4,13 @@
 <br>
   
 ### About Me 🥸:
+<br />
   
-- 🚀 I'm beginner, passionate about learning new things.
-- 🔭 I’m currently an intern at Oneflow.
-- 🌱 I’m currently a student of ENSEA.
-- ⚡ Fun fact: very interested in artificial intelligence.
-  <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="330" height="220" />
+- 🚀 I'm beginner, passionate about learning new things.&nbsp;
+- 🔭 I’m currently an intern at Oneflow.&nbsp;
+- 🌱 I’m currently a student of ENSEA.&nbsp;
+- ⚡ Fun fact: very interested in artificial intelligence.&nbsp;
+  <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
   <br /> 
   <br />  
   <br />
