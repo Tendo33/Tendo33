@@ -10,10 +10,10 @@
 - 🌱 I’m currently a student of ENSEA.
 - ⚡ Fun fact: very interested in artificial intelligence.
   <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
-<br />
-
+  <br />
+  <br />
+  <br />
 ### 🛠 &nbsp;Languages, frameworks & technologies:
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
