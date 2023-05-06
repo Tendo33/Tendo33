@@ -15,3 +15,4 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=wangscaler&theme=react-dark">
 </p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tendo33&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
