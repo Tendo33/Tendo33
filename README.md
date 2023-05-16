@@ -28,8 +28,8 @@
 ![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab)&nbsp;
   ---
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Tendo33&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tendo33&theme=tokyonight&line_height=40">
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=Tendo33&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tendo33&theme=tokyonight&line_height=40">
 </p>
   
   ---
