@@ -7,7 +7,6 @@
 <br />
   
 - 🚀 I'm beginner, passionate about learning new things.&nbsp;
-- 🔭 I’m currently an intern at lightyear.&nbsp;
 - 🌱 I’m currently a student of ENSEA.&nbsp;
 - ⚡ deep in the heart : very interested in LLMs and philosophy.&nbsp;
   <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
