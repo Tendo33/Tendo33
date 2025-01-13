@@ -1,15 +1,16 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center"><strong>Hi,<img src="wave.gif" alt="hi"  width=50 height=40 />  I'm SimonSUN ! <strong/></h1>
+<h1 align="center"><strong>Hi,<img src="pics/wave.gif" alt="hi"  width=50 height=40 />  I'm SimonSUN ! <img src="pics/meow_attention.gif" alt="hi"  width=50 height=40 /><strong/></h1> 
 <h2 align="center">Glad to see you here 🤩</h2>
 <br>
   
-### About Me 🥸:
+### About Me <img src="pics/meow_code.gif" alt="hi"  width=25 height=25 />:
 <br />
   
 - 🚀 I'm beginner, passionate about learning new things.&nbsp;
 - 🌱 I'm currently working on LLM.&nbsp;
 - 😳 I like the open source community very much.&nbsp;
 - ⚡ deep in the heart : very interested in philosophy.&nbsp;
+- <img src="pics/blob-hype.gif" alt="hi"  width=25 height=25 /> welcome to my blog : [Simon's Blog](https://simons-blog-eight.vercel.app/).&nbsp;
   <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
   <br /> 
   <br />  
@@ -18,14 +19,14 @@
 
 
 ### 🛠 &nbsp;Languages, frameworks & technologies:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFFF00)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Matlab](https://img.shields.io/badge/-Matlab-05122A?style=flat&logo=matlab)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;  
+![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;  
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;  
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;  
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;  
+![LLM](https://img.shields.io/badge/-LLM-05122A?style=flat&logo=openai)&nbsp;    
+
   ---
 <p align = "center">
   <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=Tendo33&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
