@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center"><strong>Hi,<img src="pics/wave.gif" alt="hi"  width=50 height=40 />  I'm SimonSUN ! <img src="pics/meow_attention.gif" alt="hi"  width=50 height=40 /><strong/></h1> 
-<h2 align="center">Glad to see you here 🤩</h2>
+<h1 align="center"><strong>Hi,<img src="pics/wave.gif" alt="hi"  width=50 height=40 />  I'm SimonSUN ! </h1> 
+<h2 align="center">Glad to see you here <img src="pics/meow_attention.gif" alt="hi"  width=50 height=40 /><strong/></h2>
 <br>
   
 ### About Me <img src="pics/meow_code.gif" alt="hi"  width=25 height=25 />:
