@@ -14,9 +14,6 @@
   <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
   <br /> 
   <br />  
-  <br />
-  <br />
-
 
 ### 🛠 &nbsp;Languages & frameworks:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
