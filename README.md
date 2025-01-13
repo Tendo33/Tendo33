@@ -22,10 +22,15 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;  
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)
 ![LLM](https://img.shields.io/badge/-LLM-05122A?style=flat&logo=openai)&nbsp;
 ![VLLM](https://img.shields.io/badge/-VLLM-05122A?style=flat&logo=v&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-05122A?style=flat&logo=huggingface&logoColor=orange)&nbsp;  
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-05122A?style=flat&logo=huggingface&logoColor=orange)
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=F37626)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud&logoColor=4285F4) 
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=000000)&nbsp;  
 
   ---
 <p align = "center">
