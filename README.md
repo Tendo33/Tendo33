@@ -41,7 +41,7 @@
   ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tendo33&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <p align = "center">
-  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Tendo33&theme=tokyonight" width="50%">
+  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Tendo33&theme=tokyonight" width="45%">
 </p>
   <p align = "center">
   <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=Tendo33&theme=tokyonight" width="50%" >
