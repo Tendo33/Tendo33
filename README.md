@@ -10,7 +10,7 @@
 - 🌱 I'm currently working on LLM.&nbsp;
 - 😳 I like the open source community very much.&nbsp;
 - ⚡ deep in the heart : very interested in philosophy.&nbsp;
-- <img src="pics/blob-hype.gif" alt="hi"  width=25 height=25 /> welcome to my blog : [Simon's Blog](https://simons-blog-eight.vercel.app/).&nbsp;
+- <img src="pics/blob-hype.gif" alt="hi"  width=20 height=20 /> welcome to my blog : [Simon's Blog](https://simons-blog-eight.vercel.app/).&nbsp;
   <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
   <br /> 
   <br />  
@@ -19,13 +19,15 @@
 
 
 ### 🛠 &nbsp;Languages, frameworks & technologies:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;  
-![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;  
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;  
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;  
-![LLM](https://img.shields.io/badge/-LLM-05122A?style=flat&logo=openai)&nbsp;    
+![LLM](https://img.shields.io/badge/-LLM-05122A?style=flat&logo=openai)&nbsp;
+![VLLM](https://img.shields.io/badge/-VLLM-05122A?style=flat&logo=v&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-05122A?style=flat&logo=huggingface&logoColor=orange)&nbsp;  
 
   ---
 <p align = "center">
