@@ -10,7 +10,7 @@
 - 🌱 I'm currently working on LLM.&nbsp;
 - 😳 I like the open source community very much.&nbsp;
 - ⚡ deep in the heart : very interested in philosophy.&nbsp;
-- <img src="pics/blob-hype.gif" alt="hi"  width=20 height=20 /> welcome to my blog : [Simon's Blog](https://simons-blog-eight.vercel.app/).&nbsp;
+- <img src="pics/blob-hype.gif" alt="hi"  width=20 height=20 /> welcome to my blog : [Simon's Blog](https://simonsun.xyz).&nbsp;
   <img align="right" alt="GIF" src="pics/code.gif?raw=true" width="300" height="200" />
   <br /> 
   <br /> 
