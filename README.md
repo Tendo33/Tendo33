@@ -46,3 +46,7 @@
   <p align = "center">
   <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=Tendo33&theme=tokyonight" width="50%" >
 </p>
+  ---
+<p align = "center">
+  <img src = "https://github.com/Tendo33/Tendo33/blob/output/github-snake.svg">
+</p>
