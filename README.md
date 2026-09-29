@@ -44,7 +44,7 @@
   <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Tendo33&theme=tokyonight" width="45%">
 </p>
   <p align = "center">
-  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=Tendo33&theme=tokyonight" width="50%" >
+  <img align = "right" src = "https://github-profile-trophy-orcin-eta.vercel.app/?username=Tendo33&theme=tokyonight" width="50%" >
 </p>
 
   ---
