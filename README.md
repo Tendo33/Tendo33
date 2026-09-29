@@ -34,12 +34,12 @@
 
   ---
 <p align = "center">
-  <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=Tendo33&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
-  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tendo33&theme=tokyonight&line_height=40">
+  <img src = "https://github-readme-stats-one.vercel.app/api?username=Tendo33&count_private=true&show_icons=true&theme=tokyonight&line_height=40">
+  <img src = "https://github-readme-stats-one.vercel.app/api/top-langs/?username=Tendo33&theme=tokyonight&line_height=40">
 </p>
   
   ---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tendo33&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jinfeng Sun's Contribution Graph](https://github-activity-chart.vercel.app/graph?username=Tendo33&theme=rogue)](https://github.com/HardcodeCoder/Github-Activity-Chart)
   <p align = "center">
   <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Tendo33&theme=tokyonight" width="45%">
 </p>
